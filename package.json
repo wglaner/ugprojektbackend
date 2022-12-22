@@ -29,7 +29,7 @@
     "class-transformer": "^0.2.3",
     "class-validator": "^0.11.0",
     "install": "^0.13.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.7.13",
     "node": "^13.6.0",
     "node-pre-gyp": "^0.14.0",
